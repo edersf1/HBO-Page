@@ -61,10 +61,10 @@ body {
     }
 }
 
-/*.header-img{
+.header-img{
     width: 0.160px;
     height: 0.257px;
-}*/
+}
 
 .header-controlers {
     display: flex;
