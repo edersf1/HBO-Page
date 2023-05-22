@@ -17,7 +17,7 @@ body {
 }
 
 #header {
-    position: flex;
+    position: fixed;
     z-index: 2;
     
     width: 100%;
@@ -60,10 +60,10 @@ body {
     }
 }
 
-.header-img{
+/*.header-img{
     width: 27px;
     height: 160px;
-}
+}*/
 
 .header-controlers {
     display: flex;
