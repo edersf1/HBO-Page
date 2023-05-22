@@ -63,6 +63,8 @@ body {
 .header-img{
     width: 160px;
     height: 257px;
+    
+    top: 1px;
 }
 
 .header-controlers {
