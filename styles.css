@@ -52,8 +52,8 @@ body {
 }
 
 .header-img{
-    width: 0.160px;
-    height: 0.257px;
+    width: 160px;
+    height: 257px;
 }
 
 @media(max-width: 575px) {
